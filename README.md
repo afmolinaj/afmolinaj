@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Andrés Molina: Leadership in Quality Assurance!
+Systems and Telecommunications Engineer with over 14 years of experience leading Quality Assurance (QA) teams, ensuring excellence in software and systems development.
+Expert in the implementation of agile strategies and test automation, optimizing QA processes for greater efficiency and effectiveness
+My focus has been on driving quality in the sectors I have worked in, including banking, insurance, and commercial industries, demonstrating versatility, adaptability, and synergy with work teams.
+
+Passionate about innovation, continuous improvement, and implementing best practices in the QA field to ensure the delivery of high-quality software products that exceed customer expectations.
+
+
 <!--
 **afmolinaj/afmolinaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
